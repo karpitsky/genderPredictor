@@ -16,7 +16,7 @@ setup(
     license='BSD',
     url='https://github.com/sholiday/genderPredictor',
     keywords=['Gender', 'Python'],
-    packages=['gendorpredictor'],
+    packages=['genderpredictor'],
     install_requires=[
         'nltk',
     ],
