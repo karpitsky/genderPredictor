@@ -8,7 +8,7 @@ except ImportError:
 VERSION = '0.1.0'
 
 setup(
-    name='gendorpredictor',
+    name='genderpredictor',
     version=VERSION,
     description='GenderPredictor is a wrapper around NLTK\'s Naive Bayes classifier for predicting the gender given a name.',
     author='Stephen Holiday',
